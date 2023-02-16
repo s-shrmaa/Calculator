@@ -1,0 +1,17 @@
+#main{
+    text-align: center;
+}
+
+#ans{
+    height:70px; width:30%;
+    margin-bottom: 5px; 
+    background-color: lavender;
+}
+
+.num, #resetBtn, #result{
+    height:70px; width:10%;
+    margin-bottom: 5px;
+    background-color: lavender;
+    font-weight: 600; font-size: large;
+}
+
